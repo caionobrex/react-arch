@@ -1,0 +1,1 @@
+export interface ITextInputProps extends React.InputHTMLAttributes<HTMLInputElement> {}
